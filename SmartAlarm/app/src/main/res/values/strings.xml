@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmartAlarm</string>
+    <string name="defaultTimer">0</string>
+</resources>
